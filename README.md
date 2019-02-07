@@ -3,8 +3,10 @@
 Java project that emulates the 'Game of Life' task as specified to candidates. 
 
 Please run project using the following arguments:
-arg1: Game seed - 'random' or 'scenario6'
-arg2: Iterations to run - Integer (negative values will only display the intial seed)
+  arg1: Game seed - 'random' or 'scenario6'.
+  arg2: Iterations to run - Integer (negative values will only display the intial seed)
+ 
+Example run command at out\production\BBC_Game_Of_Life, use "java main.toop.alexander.Main scenario6 2"
 
 Following assumptions were made from the instructions given:
 1.	Dead cells do not occupy space on the infinite grid, live cells can later occupy their space as implied by scenario 6.
