@@ -20,4 +20,4 @@ Following assumptions were made from the instructions given:
 
 
 
-Disclaimer: I am not affiliated with BBC. This project is a submission for review. 
+Disclaimer: I am not affiliated with the BBC. This project is a submission for review. 
